@@ -1,0 +1,81 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.max-width-1 {
+    max-width: 80vw;
+  }
+  
+ 
+  
+  .m-auto {
+    margin: auto;
+  }
+.blog-1{
+  padding: 20px;
+  
+}
+.recent{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+  padding: 10px;
+}
+
+.blog{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hr{
+  padding: 10px;
+}
+.article{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.home-article{
+    display: flex;
+    margin:auto;
+    padding: 10px;
+}
+.home-article img{
+  width: 300px;
+
+}
+.home-article h2{
+  margin: auto;
+  padding: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.home-article p{
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.color{
+color: inherit;
+}
+.btn{
+  padding: 10px;
+  margin: auto;
+}
+button{
+  padding: 5px;
+  background: #F7F0F0;
+  border-radius: 10px;
+}
+.footer {
+  padding: 0;
+  margin: 0;
+  height: 50px;
+  background-color: #9EFAE2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  flex-direction: column;
+}
+.m-auto-2{
+  margin: auto;
+}
+.max-width-2{
+  max-width: 35vw;
+}
